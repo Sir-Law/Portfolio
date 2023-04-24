@@ -1,0 +1,38 @@
+body {
+    margin: 0%;
+}
+
+.myportfolio {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    justify-content: center;
+}
+
+.top-header {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+}
+
+.sub-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mainframe {
+    position: absolute;
+    display: flex;
+}
+
+.mainframe > .background-img {
+    background-image: url("images/backgrnd.jpeg");
+    width: 525px;
+    height: 450px;
+    position: absolute;
+    padding: 2px;
+}
+
+.maintext {
+    padding-left: 589px;
+}
