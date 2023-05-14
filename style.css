@@ -32,6 +32,9 @@ body {
     position: absolute;
     padding: 2px;
 }
+.background-img:hover {
+    transform: scaleX(-1);
+}
 
 .maintext {
     padding-left: 589px;
