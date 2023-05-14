@@ -37,5 +37,10 @@ body {
 }
 
 .maintext {
-    padding-left: 589px;
+    padding-left: 580px;  
+}
+
+.maintext-btn > .btn1, .btn2 {
+    background-color: blue;
+    color: white;
 }
